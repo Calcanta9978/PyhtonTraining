@@ -1,2 +1,2 @@
 # PyhtonTraining
-little bit of python training
+little bit of python training.
